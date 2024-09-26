@@ -1,16 +1,7 @@
 # goroute
 
-A new Flutter project.
+Go route is one of the best routing package in flutter it so easy and fast.
+This is a Go route sample code routing between 5 pages
+Package Link : https://pub.dev/packages/go_router
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![screenshot-1727317885255](https://github.com/user-attachments/assets/1471f4b7-f6fb-45fa-aeb7-49f35351414f)
